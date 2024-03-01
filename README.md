@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Wasalt mobile app**
 
-- 🌱 I’m currently learning **Angular, nodejs**
+- 🌱 I’m currently learning **Angular and nodejs**
 
 - 💬 Ask me about **React Native, Javascript, Data Structures and Algorithm**
 
