@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samriddhi Sharma</h1>
 <h3 align="center">A passionate Android/iOS mobile application developer</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media”>
+
+<p align="left"> <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samriddhi31s&label=Profile%20views&color=0e75b6&style=flat" alt="samriddhi31s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samriddhi31s" alt="samriddhi31s" /></a> </p>
 
 - 🔭 I’m currently working on **Wasalt mobile app**
 
