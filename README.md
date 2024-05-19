@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular and nodejs**
 
-- 💬 Ask me about **React Native, Javascript, Data Structures and Algorithm**
+- 💬 Ask me about **React Native, Javascript, HTML, CSS, ReactJS**
 
 - 📫 How to reach me **samriddhi31sharma@gmail.com**
 
